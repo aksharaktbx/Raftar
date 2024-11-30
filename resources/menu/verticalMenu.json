@@ -1,0 +1,147 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons bx bx-home-smile",
+      "slug": "dashboard",
+      "submenu": [
+        {
+          "url": "/",
+          "name": "Analytics",
+          "slug": "dashboard-analytics"
+        }
+      ]
+    },
+    {
+      "url": "#",
+      "name": "User Management",
+      "icon": "menu-icon tf-icons bx bx-user",
+      "slug": "#",
+      "submenu": [
+        {
+          "url": "user-management",
+          "name": "User List",
+          "slug": "user-management"
+        },
+        {
+          "url": "contactus",
+          "name": "Contact Us",
+          "slug": "contactus"
+        },
+        {
+          "url": "add-video",
+          "name": "Play Video",
+          "slug": "add-video"
+        },
+        {
+          "url": "add-wallet-video",
+          "name": "Add Wallet Video",
+          "slug": "add-wallet-video"
+        }
+      ]
+    },
+    {
+      "url": "#",
+      "name": "Game Management",
+      "icon": "menu-icon tf-icons bx bx-home-smile",
+      "slug": "#",
+      "submenu": [
+        {
+          "url": "game-list",
+          "name": "Game List",
+          "slug": "game-list"
+        },
+        {
+          "url": "game-add",
+          "name": "Game Add",
+          "slug": "game-add"
+        },
+        {
+          "url": "game-rate",
+          "name": "Game Rate",
+          "slug": "game-rate"
+        },
+        {
+          "url": "game-rate-add",
+          "name": "Add Game Rate",
+          "slug": "game-rate-add"
+        },
+        {
+          "url": "game-chart",
+          "name": "Chart Url",
+          "slug": "game-chart"
+        }
+      ]
+    },
+    {
+      "url": "#",
+      "name": "Wallet Management",
+      "icon": "menu-icon tf-icons bx bx-wallet",
+      "slug": "#",
+      "submenu": [
+        {
+          "url": "add-fund",
+          "name": "Add Fund Request",
+          "slug": "add-fund"
+        },
+        {
+          "url": "withdraw-fund",
+          "name": "Add Withdraw Request",
+          "slug": "withdraw-fund"
+        },
+        {
+          "url": "withdraw-fund",
+          "name": "QR Code",
+          "slug": "withdraw-fund"
+        }
+      ]
+    },
+    {
+      "url": "#",
+      "name": "Report Management",
+      "icon": "menu-icon tf-icons bx bx-bar-chart-alt",
+      "slug": "#",
+      "submenu": [
+        {
+          "url": "bit-history",
+          "name": "Bit History",
+          "slug": "bit-history"
+        },
+        {
+          "url": "withdraw-history",
+          "name": "Withdraw History",
+          "slug": "withdraw-history"
+        },
+        {
+          "url": "deposit-history",
+          "name": "Deposit History",
+          "slug": "deposit-history"
+        },
+        {
+          "url": "transaction-history",
+          "name": "Transaction History",
+          "slug": "transaction-history"
+        }
+      ]
+    },
+    {
+      "url": "#",
+      "name": "Setting",
+      "icon": "menu-icon tf-icons bx bx-cog",
+      "slug": "#",
+      "submenu": [
+        {
+          "url": "#",
+          "name": "Account List",
+          "slug": "#"
+        },
+        {
+          "url": "#",
+          "name": "How To Play",
+          "slug": "#"
+        }
+      ]
+    }
+  ]
+}
